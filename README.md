@@ -77,7 +77,26 @@ En la parte de operaciones se han utilizado todas las operaciones aritmeticas, u
 
 https://youtu.be/hj_9FaWhKGI
 
-6. Conclusiones
+6. Extension de las aplicaciones 
+
+Cambio de rectangulares a polares
+
+http://ai2.appinventor.mit.edu/#6271309129842688
+
+Codigo QR
+
+![image](https://user-images.githubusercontent.com/93210648/157307603-f4279ef2-dfcb-4a01-ba1a-cb18ba4d1774.png)
+
+Operaciones con fasores
+
+http://ai2.appinventor.mit.edu/#5343175220002816
+
+Codigo QR 
+
+![image](https://user-images.githubusercontent.com/93210648/157308562-771be7da-2e31-4b41-93fb-36045eb3ace4.png)
+
+
+7. Conclusiones
 
 • Para el cambio de rectangulares a polares se utiliza para su modulo: teorema de Pitagoras; para su angulo la funcion trigonometrica de tangente inversa.
 
@@ -85,7 +104,7 @@ https://youtu.be/hj_9FaWhKGI
 
 • En la division de fasores se utiliza el concepto de conjugado que no es mas que el denominador de la expresion con signo cambiado.
 
-7. Bibliografia
+8. Bibliografia
 
 F. (2021). Principles Of Electric Circuits, 8Ed. Pearson.
 
