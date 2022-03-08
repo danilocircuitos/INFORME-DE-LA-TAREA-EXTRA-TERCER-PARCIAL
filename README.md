@@ -83,6 +83,7 @@ Cambio de rectangulares a polares
 
 http://ai2.appinventor.mit.edu/#6271309129842688
 
+
 Codigo QR
 
 ![image](https://user-images.githubusercontent.com/93210648/157307603-f4279ef2-dfcb-4a01-ba1a-cb18ba4d1774.png)
